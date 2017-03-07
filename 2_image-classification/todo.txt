@@ -1,0 +1,1 @@
+change batch_features and batch_label to valid_features and valid_labels in print_stats
